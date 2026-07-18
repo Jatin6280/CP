@@ -8,3 +8,4 @@
 | 6 | [1858A - Buttons](./Codeforces/basic/1858A%20-%20Buttons) | [Codeforces](https://codeforces.com/problemset/problem/1858/A) | basic | 18 Jul 2026 | 10:07 pm |
 | 7 | [1866A - Ambitious Kid](./Codeforces/basic/1866A%20-%20Ambitious%20Kid) | [Codeforces](https://codeforces.com/problemset/problem/1866/A) | basic | 18 Jul 2026 | 10:07 pm |
 | 8 | [1881A - Dont Try to Count](./Codeforces/basic/1881A%20-%20Dont%20Try%20to%20Count) | [Codeforces](https://codeforces.com/problemset/problem/1881/A) | basic | 18 Jul 2026 | 10:07 pm |
+| 9 | [1877A - Goals of Victory](./Codeforces/basic/1877A%20-%20Goals%20of%20Victory) | [Codeforces](https://codeforces.com/problemset/problem/1877/A) | basic | 18 Jul 2026 | 10:07 pm |

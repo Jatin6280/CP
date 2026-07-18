@@ -1,14 +1,14 @@
 {
-  "totalSolved": 8,
+  "totalSolved": 9,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-18",
-  "todayCount": 8,
+  "todayCount": 9,
   "difficultyCounts": {
     "easy": 0,
     "medium": 0,
     "hard": 0,
-    "basic": 8
+    "basic": 9
   },
   "syncedProblems": {
     "Codeforces_1837A_-_Grasshopper_on_a_Line": true,
@@ -18,10 +18,11 @@
     "Codeforces_1853A_-_Desorting": true,
     "Codeforces_1858A_-_Buttons": true,
     "Codeforces_1866A_-_Ambitious_Kid": true,
-    "Codeforces_1881A_-_Dont_Try_to_Count": true
+    "Codeforces_1881A_-_Dont_Try_to_Count": true,
+    "Codeforces_1877A_-_Goals_of_Victory": true
   },
   "activityHistory": {
-    "2026-07-18": 8
+    "2026-07-18": 9
   },
   "todayProblems": [
     "1837A - Grasshopper on a Line",
@@ -31,6 +32,7 @@
     "1853A - Desorting",
     "1858A - Buttons",
     "1866A - Ambitious Kid",
-    "1881A - Dont Try to Count"
+    "1881A - Dont Try to Count",
+    "1877A - Goals of Victory"
   ]
 }
