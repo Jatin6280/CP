@@ -1,14 +1,14 @@
 {
-  "totalSolved": 12,
+  "totalSolved": 13,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-18",
-  "todayCount": 12,
+  "todayCount": 13,
   "difficultyCounts": {
     "easy": 0,
     "medium": 0,
     "hard": 0,
-    "basic": 12
+    "basic": 13
   },
   "syncedProblems": {
     "Codeforces_1837A_-_Grasshopper_on_a_Line": true,
@@ -22,10 +22,11 @@
     "Codeforces_1877A_-_Goals_of_Victory": true,
     "Codeforces_1878A_-_How_Much_Does_Daytona_Cost": true,
     "Codeforces_1896A_-_Jagged_Swaps": true,
-    "Codeforces_1900A_-_Cover_in_Water": true
+    "Codeforces_1900A_-_Cover_in_Water": true,
+    "Codeforces_1901A_-_Line_Trip": true
   },
   "activityHistory": {
-    "2026-07-18": 12
+    "2026-07-18": 13
   },
   "todayProblems": [
     "1837A - Grasshopper on a Line",
@@ -39,6 +40,7 @@
     "1877A - Goals of Victory",
     "1878A - How Much Does Daytona Cost",
     "1896A - Jagged Swaps",
-    "1900A - Cover in Water"
+    "1900A - Cover in Water",
+    "1901A - Line Trip"
   ]
 }
