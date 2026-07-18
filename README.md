@@ -9,3 +9,4 @@
 | 7 | [1866A - Ambitious Kid](./Codeforces/basic/1866A%20-%20Ambitious%20Kid) | [Codeforces](https://codeforces.com/problemset/problem/1866/A) | basic | 18 Jul 2026 | 10:07 pm |
 | 8 | [1881A - Dont Try to Count](./Codeforces/basic/1881A%20-%20Dont%20Try%20to%20Count) | [Codeforces](https://codeforces.com/problemset/problem/1881/A) | basic | 18 Jul 2026 | 10:07 pm |
 | 9 | [1877A - Goals of Victory](./Codeforces/basic/1877A%20-%20Goals%20of%20Victory) | [Codeforces](https://codeforces.com/problemset/problem/1877/A) | basic | 18 Jul 2026 | 10:07 pm |
+| 10 | [1878A - How Much Does Daytona Cost](./Codeforces/basic/1878A%20-%20How%20Much%20Does%20Daytona%20Cost) | [Codeforces](https://codeforces.com/problemset/problem/1878/A) | basic | 18 Jul 2026 | 10:07 pm |
