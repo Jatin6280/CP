@@ -10,3 +10,4 @@
 | 8 | [1881A - Dont Try to Count](./Codeforces/basic/1881A%20-%20Dont%20Try%20to%20Count) | [Codeforces](https://codeforces.com/problemset/problem/1881/A) | basic | 18 Jul 2026 | 10:07 pm |
 | 9 | [1877A - Goals of Victory](./Codeforces/basic/1877A%20-%20Goals%20of%20Victory) | [Codeforces](https://codeforces.com/problemset/problem/1877/A) | basic | 18 Jul 2026 | 10:07 pm |
 | 10 | [1878A - How Much Does Daytona Cost](./Codeforces/basic/1878A%20-%20How%20Much%20Does%20Daytona%20Cost) | [Codeforces](https://codeforces.com/problemset/problem/1878/A) | basic | 18 Jul 2026 | 10:07 pm |
+| 11 | [1896A - Jagged Swaps](./Codeforces/basic/1896A%20-%20Jagged%20Swaps) | [Codeforces](https://codeforces.com/problemset/problem/1896/A) | basic | 18 Jul 2026 | 10:07 pm |

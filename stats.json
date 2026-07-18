@@ -1,14 +1,14 @@
 {
-  "totalSolved": 10,
+  "totalSolved": 11,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-18",
-  "todayCount": 10,
+  "todayCount": 11,
   "difficultyCounts": {
     "easy": 0,
     "medium": 0,
     "hard": 0,
-    "basic": 10
+    "basic": 11
   },
   "syncedProblems": {
     "Codeforces_1837A_-_Grasshopper_on_a_Line": true,
@@ -20,10 +20,11 @@
     "Codeforces_1866A_-_Ambitious_Kid": true,
     "Codeforces_1881A_-_Dont_Try_to_Count": true,
     "Codeforces_1877A_-_Goals_of_Victory": true,
-    "Codeforces_1878A_-_How_Much_Does_Daytona_Cost": true
+    "Codeforces_1878A_-_How_Much_Does_Daytona_Cost": true,
+    "Codeforces_1896A_-_Jagged_Swaps": true
   },
   "activityHistory": {
-    "2026-07-18": 10
+    "2026-07-18": 11
   },
   "todayProblems": [
     "1837A - Grasshopper on a Line",
@@ -35,6 +36,7 @@
     "1866A - Ambitious Kid",
     "1881A - Dont Try to Count",
     "1877A - Goals of Victory",
-    "1878A - How Much Does Daytona Cost"
+    "1878A - How Much Does Daytona Cost",
+    "1896A - Jagged Swaps"
   ]
 }
