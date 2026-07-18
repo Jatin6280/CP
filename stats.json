@@ -1,30 +1,32 @@
 {
-  "totalSolved": 5,
+  "totalSolved": 6,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-18",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
     "easy": 0,
     "medium": 0,
     "hard": 0,
-    "basic": 5
+    "basic": 6
   },
   "syncedProblems": {
     "Codeforces_1837A_-_Grasshopper_on_a_Line": true,
     "Codeforces_1845A_-_Forbidden_Integer": true,
     "Codeforces_1857A_-_Array_Coloring": true,
     "Codeforces_1814A_-_Coins": true,
-    "Codeforces_1853A_-_Desorting": true
+    "Codeforces_1853A_-_Desorting": true,
+    "Codeforces_1858A_-_Buttons": true
   },
   "activityHistory": {
-    "2026-07-18": 5
+    "2026-07-18": 6
   },
   "todayProblems": [
     "1837A - Grasshopper on a Line",
     "1845A - Forbidden Integer",
     "1857A - Array Coloring",
     "1814A - Coins",
-    "1853A - Desorting"
+    "1853A - Desorting",
+    "1858A - Buttons"
   ]
 }

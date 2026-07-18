@@ -5,3 +5,4 @@
 | 3 | [1857A - Array Coloring](./Codeforces/basic/1857A%20-%20Array%20Coloring) | [Codeforces](https://codeforces.com/problemset/problem/1857/A) | basic | 18 Jul 2026 | 10:07 pm |
 | 4 | [1814A - Coins](./Codeforces/basic/1814A%20-%20Coins) | [Codeforces](https://codeforces.com/problemset/problem/1814/A) | basic | 18 Jul 2026 | 10:07 pm |
 | 5 | [1853A - Desorting](./Codeforces/basic/1853A%20-%20Desorting) | [Codeforces](https://codeforces.com/problemset/problem/1853/A) | basic | 18 Jul 2026 | 10:07 pm |
+| 6 | [1858A - Buttons](./Codeforces/basic/1858A%20-%20Buttons) | [Codeforces](https://codeforces.com/problemset/problem/1858/A) | basic | 18 Jul 2026 | 10:07 pm |
