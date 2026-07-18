@@ -6,3 +6,4 @@
 | 4 | [266B - Queue at the School](./Codeforces/basic/266B%20-%20Queue%20at%20the%20School) | [Codeforces](https://codeforces.com/problemset/problem/266/B) | basic | 18 Jul 2026 | 10:08 pm |
 | 5 | [160A - Twins](./Codeforces/basic/160A%20-%20Twins) | [Codeforces](https://codeforces.com/problemset/problem/160/A) | basic | 18 Jul 2026 | 10:08 pm |
 | 6 | [59A - Word](./Codeforces/basic/59A%20-%20Word) | [Codeforces](https://codeforces.com/problemset/problem/59/A) | basic | 18 Jul 2026 | 10:08 pm |
+| 7 | [339A - Helpful Maths](./Codeforces/basic/339A%20-%20Helpful%20Maths) | [Codeforces](https://codeforces.com/problemset/problem/339/A) | basic | 18 Jul 2026 | 10:08 pm |

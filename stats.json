@@ -1,14 +1,14 @@
 {
-  "totalSolved": 17,
+  "totalSolved": 18,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-18",
-  "todayCount": 17,
+  "todayCount": 18,
   "difficultyCounts": {
     "easy": 0,
     "medium": 0,
     "hard": 0,
-    "basic": 17
+    "basic": 18
   },
   "syncedProblems": {
     "Codeforces_1837A_-_Grasshopper_on_a_Line": true,
@@ -27,10 +27,11 @@
     "Codeforces_1903A_-_Halloumi_Boxes": true,
     "Codeforces_266B_-_Queue_at_the_School": true,
     "Codeforces_160A_-_Twins": true,
-    "Codeforces_59A_-_Word": true
+    "Codeforces_59A_-_Word": true,
+    "Codeforces_339A_-_Helpful_Maths": true
   },
   "activityHistory": {
-    "2026-07-18": 17
+    "2026-07-18": 18
   },
   "todayProblems": [
     "1837A - Grasshopper on a Line",
@@ -49,6 +50,7 @@
     "1903A - Halloumi Boxes",
     "266B - Queue at the School",
     "160A - Twins",
-    "59A - Word"
+    "59A - Word",
+    "339A - Helpful Maths"
   ]
 }
