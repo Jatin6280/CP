@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 10 |
+| 16 | 10 |
 
 ---
 
@@ -14,11 +14,11 @@
 
 - [*special](#special) (1)
 - [brute force](#brute-force) (3)
-- [constructive algorithms](#constructive-algorithms) (1)
+- [constructive algorithms](#constructive-algorithms) (2)
 - [dp](#dp) (1)
 - [greedy](#greedy) (4)
 - [implementation](#implementation) (10)
-- [math](#math) (5)
+- [math](#math) (6)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (2)
@@ -44,6 +44,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 11A | [Increasing Sequence](https://codeforces.com/contest/11/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/11/A%20-%20Increasing%20Sequence/solution.cpp) |
+| 1837A | [Grasshopper on a Line](https://codeforces.com/contest/1837/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/1837/A%20-%20Grasshopper%20on%20a%20Line/solution.cpp) |
 
 ### dp
 
@@ -84,6 +85,7 @@
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
 | 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/318/A%20-%20Even%20Odds/solution.cpp) |
 | 749A | [Bachgold Problem](https://codeforces.com/contest/749/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/749/A%20-%20Bachgold%20Problem/solution.cpp) |
+| 1837A | [Grasshopper on a Line](https://codeforces.com/contest/1837/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/1837/A%20-%20Grasshopper%20on%20a%20Line/solution.cpp) |
 
 ### number theory
 
