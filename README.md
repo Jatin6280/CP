@@ -6,22 +6,24 @@
 
 | Total Problems | Topics |
 |---|---|
-| 16 | 10 |
+| 31 | 12 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [brute force](#brute-force) (3)
-- [constructive algorithms](#constructive-algorithms) (2)
-- [dp](#dp) (1)
-- [greedy](#greedy) (4)
-- [implementation](#implementation) (10)
-- [math](#math) (6)
-- [number theory](#number-theory) (1)
-- [sortings](#sortings) (1)
-- [strings](#strings) (2)
+- [brute force](#brute-force) (5)
+- [constructive algorithms](#constructive-algorithms) (3)
+- [dp](#dp) (2)
+- [graph matchings](#graph-matchings) (1)
+- [greedy](#greedy) (9)
+- [implementation](#implementation) (17)
+- [math](#math) (9)
+- [number theory](#number-theory) (2)
+- [shortest paths](#shortest-paths) (1)
+- [sortings](#sortings) (4)
+- [strings](#strings) (5)
 
 ---
 
@@ -38,12 +40,15 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.cpp) |
+| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
+| 2233A | [AI Project Development](https://codeforces.com/contest/2233/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/2233/A%20-%20AI%20Project%20Development/solution.cpp) |
 
 ### constructive algorithms
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 11A | [Increasing Sequence](https://codeforces.com/contest/11/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/11/A%20-%20Increasing%20Sequence/solution.cpp) |
+| 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.cpp) |
 | 1837A | [Grasshopper on a Line](https://codeforces.com/contest/1837/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/1837/A%20-%20Grasshopper%20on%20a%20Line/solution.cpp) |
 
 ### dp
@@ -51,30 +56,49 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.cpp) |
+| 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
+
+### graph matchings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.cpp) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
+| 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/160/A%20-%20Twins/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/231/A%20-%20Team/solution.cpp) |
+| 337A | [Puzzles](https://codeforces.com/contest/337/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/337/A%20-%20Puzzles/solution.cpp) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
 | 749A | [Bachgold Problem](https://codeforces.com/contest/749/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/749/A%20-%20Bachgold%20Problem/solution.cpp) |
+| 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
+| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 11A | [Increasing Sequence](https://codeforces.com/contest/11/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/11/A%20-%20Increasing%20Sequence/solution.cpp) |
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/59/A%20-%20Word/solution.cpp) |
 | 61A | [Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/61/A%20-%20Ultra-Fast%20Mathematician/solution.cpp) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/96/A%20-%20Football/solution.cpp) |
 | 133A | [HQ9+](https://codeforces.com/contest/133/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/133/A%20-%20HQ9%2B/solution.cpp) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.cpp) |
+| 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.cpp) |
+| 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.cpp) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
+| 451A | [Game With Sticks](https://codeforces.com/contest/451/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/451/A%20-%20Game%20With%20Sticks/solution.cpp) |
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.cpp) |
 | 749A | [Bachgold Problem](https://codeforces.com/contest/749/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/749/A%20-%20Bachgold%20Problem/solution.cpp) |
+| 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
+| 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
 
 ### math
 
@@ -84,27 +108,43 @@
 | 11A | [Increasing Sequence](https://codeforces.com/contest/11/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/11/A%20-%20Increasing%20Sequence/solution.cpp) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
 | 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/318/A%20-%20Even%20Odds/solution.cpp) |
+| 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 749A | [Bachgold Problem](https://codeforces.com/contest/749/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/749/A%20-%20Bachgold%20Problem/solution.cpp) |
+| 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
 | 1837A | [Grasshopper on a Line](https://codeforces.com/contest/1837/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/1837/A%20-%20Grasshopper%20on%20a%20Line/solution.cpp) |
+| 2233A | [AI Project Development](https://codeforces.com/contest/2233/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/2233/A%20-%20AI%20Project%20Development/solution.cpp) |
 
 ### number theory
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 749A | [Bachgold Problem](https://codeforces.com/contest/749/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/749/A%20-%20Bachgold%20Problem/solution.cpp) |
+| 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
+
+### shortest paths
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.cpp) |
 
 ### sortings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/160/A%20-%20Twins/solution.cpp) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
+| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 
 ### strings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/59/A%20-%20Word/solution.cpp) |
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/96/A%20-%20Football/solution.cpp) |
+| 208A | [Dubstep](https://codeforces.com/contest/208/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/208/A%20-%20Dubstep/solution.cpp) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Jatin6280/CP/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 
 ---
 
