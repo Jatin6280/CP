@@ -1,14 +1,14 @@
 {
-  "totalSolved": 15,
+  "totalSolved": 16,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-18",
-  "todayCount": 15,
+  "todayCount": 16,
   "difficultyCounts": {
     "easy": 0,
     "medium": 0,
     "hard": 0,
-    "basic": 15
+    "basic": 16
   },
   "syncedProblems": {
     "Codeforces_1837A_-_Grasshopper_on_a_Line": true,
@@ -25,10 +25,11 @@
     "Codeforces_1900A_-_Cover_in_Water": true,
     "Codeforces_1901A_-_Line_Trip": true,
     "Codeforces_1903A_-_Halloumi_Boxes": true,
-    "Codeforces_266B_-_Queue_at_the_School": true
+    "Codeforces_266B_-_Queue_at_the_School": true,
+    "Codeforces_160A_-_Twins": true
   },
   "activityHistory": {
-    "2026-07-18": 15
+    "2026-07-18": 16
   },
   "todayProblems": [
     "1837A - Grasshopper on a Line",
@@ -45,6 +46,7 @@
     "1900A - Cover in Water",
     "1901A - Line Trip",
     "1903A - Halloumi Boxes",
-    "266B - Queue at the School"
+    "266B - Queue at the School",
+    "160A - Twins"
   ]
 }
