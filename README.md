@@ -8,3 +8,4 @@
 | 6 | [59A - Word](./Codeforces/basic/59A%20-%20Word) | [Codeforces](https://codeforces.com/problemset/problem/59/A) | basic | 18 Jul 2026 | 10:08 pm |
 | 7 | [339A - Helpful Maths](./Codeforces/basic/339A%20-%20Helpful%20Maths) | [Codeforces](https://codeforces.com/problemset/problem/339/A) | basic | 18 Jul 2026 | 10:08 pm |
 | 8 | [1829B - Blank Space](./Codeforces/basic/1829B%20-%20Blank%20Space) | [Codeforces](https://codeforces.com/problemset/problem/1829/B) | basic | 18 Jul 2026 | 10:08 pm |
+| 9 | [2247B - Yet Another Constructive](./Codeforces/basic/2247B%20-%20Yet%20Another%20Constructive) | [Codeforces](https://codeforces.com/problemset/problem/2247/B) | basic | 19 Jul 2026 | 11:50 pm |

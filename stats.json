@@ -1,14 +1,14 @@
 {
-  "totalSolved": 19,
-  "currentStreak": 1,
-  "maxStreak": 1,
-  "lastSyncDate": "2026-07-18",
-  "todayCount": 19,
+  "totalSolved": 20,
+  "currentStreak": 2,
+  "maxStreak": 2,
+  "lastSyncDate": "2026-07-19",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 0,
     "medium": 0,
     "hard": 0,
-    "basic": 19
+    "basic": 20
   },
   "syncedProblems": {
     "Codeforces_1837A_-_Grasshopper_on_a_Line": true,
@@ -29,30 +29,14 @@
     "Codeforces_160A_-_Twins": true,
     "Codeforces_59A_-_Word": true,
     "Codeforces_339A_-_Helpful_Maths": true,
-    "Codeforces_1829B_-_Blank_Space": true
+    "Codeforces_1829B_-_Blank_Space": true,
+    "Codeforces_2247B_-_Yet_Another_Constructive": true
   },
   "activityHistory": {
-    "2026-07-18": 19
+    "2026-07-18": 19,
+    "2026-07-19": 1
   },
   "todayProblems": [
-    "1837A - Grasshopper on a Line",
-    "1845A - Forbidden Integer",
-    "1857A - Array Coloring",
-    "1814A - Coins",
-    "1853A - Desorting",
-    "1858A - Buttons",
-    "1866A - Ambitious Kid",
-    "1881A - Dont Try to Count",
-    "1877A - Goals of Victory",
-    "1878A - How Much Does Daytona Cost",
-    "1896A - Jagged Swaps",
-    "1900A - Cover in Water",
-    "1901A - Line Trip",
-    "1903A - Halloumi Boxes",
-    "266B - Queue at the School",
-    "160A - Twins",
-    "59A - Word",
-    "339A - Helpful Maths",
-    "1829B - Blank Space"
+    "2247B - Yet Another Constructive"
   ]
 }
