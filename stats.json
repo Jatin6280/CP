@@ -1,14 +1,14 @@
 {
-  "totalSolved": 21,
+  "totalSolved": 22,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-07-19",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 0,
     "medium": 0,
     "hard": 0,
-    "basic": 21
+    "basic": 22
   },
   "syncedProblems": {
     "Codeforces_1837A_-_Grasshopper_on_a_Line": true,
@@ -31,14 +31,16 @@
     "Codeforces_339A_-_Helpful_Maths": true,
     "Codeforces_1829B_-_Blank_Space": true,
     "Codeforces_2247B_-_Yet_Another_Constructive": true,
-    "Codeforces_1904A_-_Forked": true
+    "Codeforces_1904A_-_Forked": true,
+    "Codeforces_1766A_-_Extremely_Round": true
   },
   "activityHistory": {
     "2026-07-18": 19,
-    "2026-07-19": 2
+    "2026-07-19": 3
   },
   "todayProblems": [
     "2247B - Yet Another Constructive",
-    "1904A - Forked"
+    "1904A - Forked",
+    "1766A - Extremely Round"
   ]
 }

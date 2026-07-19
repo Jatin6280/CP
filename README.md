@@ -10,3 +10,4 @@
 | 8 | [1829B - Blank Space](./Codeforces/basic/1829B%20-%20Blank%20Space) | [Codeforces](https://codeforces.com/problemset/problem/1829/B) | basic | 18 Jul 2026 | 10:08 pm |
 | 9 | [2247B - Yet Another Constructive](./Codeforces/basic/2247B%20-%20Yet%20Another%20Constructive) | [Codeforces](https://codeforces.com/problemset/problem/2247/B) | basic | 19 Jul 2026 | 11:50 pm |
 | 10 | [1904A - Forked](./Codeforces/basic/1904A%20-%20Forked) | [Codeforces](https://codeforces.com/problemset/problem/1904/A) | basic | 19 Jul 2026 | 11:50 pm |
+| 11 | [1766A - Extremely Round](./Codeforces/basic/1766A%20-%20Extremely%20Round) | [Codeforces](https://codeforces.com/problemset/problem/1766/A) | basic | 19 Jul 2026 | 11:51 pm |
