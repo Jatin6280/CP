@@ -1,0 +1,20 @@
+#include <iostream>
+#include <string>
+using namespace std;
+ 
+int main() {
+    int t;
+    cin >> t;
+ 
+    while (t--) {
+        string n;
+        cin >> n;
+ 
+        int digits = n.size();
+        int firstDigit = n[0] - '0';
+ 
+        cout << (digits - 1) * 9 + firstDigit << endl;
+    }
+ 
+    return 0;
+}
