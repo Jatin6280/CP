@@ -1,11 +1,11 @@
 {
-  "totalSolved": 27,
-  "currentStreak": 3,
+  "totalSolved": 28,
+  "currentStreak": 1,
   "maxStreak": 3,
-  "lastSyncDate": "2026-07-20",
-  "todayCount": 5,
+  "lastSyncDate": "2026-07-22",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 0,
+    "easy": 1,
     "medium": 0,
     "hard": 0,
     "basic": 27
@@ -37,18 +37,16 @@
     "Codeforces_2245B_-_Delete_and_Concatenate": true,
     "Codeforces_2231F_-_Quadratic_Jumps": true,
     "Codeforces_69A_-_Young_Physicist": true,
-    "Codeforces_1285C_-_Fadi_and_LCM": true
+    "Codeforces_1285C_-_Fadi_and_LCM": true,
+    "LeetCode_Max_Consecutive_Ones": true
   },
   "activityHistory": {
     "2026-07-18": 19,
     "2026-07-19": 3,
-    "2026-07-20": 5
+    "2026-07-20": 5,
+    "2026-07-22": 1
   },
   "todayProblems": [
-    "705A - Hulk",
-    "2245B - Delete and Concatenate",
-    "2231F - Quadratic Jumps",
-    "69A - Young Physicist",
-    "1285C - Fadi and LCM"
+    "Max Consecutive Ones"
   ]
 }
