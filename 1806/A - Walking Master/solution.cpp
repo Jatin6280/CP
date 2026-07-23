@@ -1,0 +1,28 @@
+#include <iostream>
+using namespace std;
+ 
+int main() {
+    int t;
+    cin >> t;
+ 
+    while (t--) {
+        long long a, b, c, d;
+        cin >> a >> b >> c >> d;
+ 
+        if (d < b) {
+            cout << -1 << endl;
+            continue;
+        }
+ 
+        long long diagonal = d - b;
+        long long left = a + diagonal - c;
+ 
+        if (left < 0) {
+            cout << -1 << endl;
+        } else {
+            cout << diagonal + left << endl;
+        }
+    }
+ 
+    return 0;
+}
