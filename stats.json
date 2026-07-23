@@ -1,14 +1,14 @@
 {
-  "totalSolved": 30,
+  "totalSolved": 31,
   "currentStreak": 2,
   "maxStreak": 3,
   "lastSyncDate": "2026-07-23",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 2,
     "medium": 0,
     "hard": 0,
-    "basic": 28
+    "basic": 29
   },
   "syncedProblems": {
     "Codeforces_1837A_-_Grasshopper_on_a_Line": true,
@@ -40,16 +40,18 @@
     "Codeforces_1285C_-_Fadi_and_LCM": true,
     "LeetCode_Max_Consecutive_Ones": true,
     "LeetCode_Single_Number": true,
-    "Codeforces_1806A_-_Walking_Master": true
+    "Codeforces_1806A_-_Walking_Master": true,
+    "Codeforces_1805A_-_We_Need_the_Zero": true
   },
   "activityHistory": {
     "2026-07-18": 19,
     "2026-07-19": 3,
     "2026-07-20": 5,
     "2026-07-22": 2,
-    "2026-07-23": 1
+    "2026-07-23": 2
   },
   "todayProblems": [
-    "1806A - Walking Master"
+    "1806A - Walking Master",
+    "1805A - We Need the Zero"
   ]
 }
