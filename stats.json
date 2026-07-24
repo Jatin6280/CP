@@ -46,7 +46,7 @@
     "LeetCode_Move_Zeroes": true,
     "Codeforces_1789A_-_Serval_and_Mochas_Array": true,
     "Codeforces_1777A_-_Everybody_Likes_Good_Arrays": true,
-    "Codeforces_132B_-_Piet": true
+    "Codeforces_2237C_-_Duck_Surplus": true
   },
   "activityHistory": {
     "2026-07-18": 19,
@@ -59,6 +59,6 @@
   },
   "todayProblems": [
     "1777A - Everybody Likes Good Arrays",
-    "132B - Piet"
+    "2237C - Duck Surplus"
   ]
 }
