@@ -1,14 +1,14 @@
 {
-  "totalSolved": 33,
+  "totalSolved": 34,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-07-24",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 3,
     "medium": 0,
     "hard": 0,
-    "basic": 30
+    "basic": 31
   },
   "syncedProblems": {
     "Codeforces_1837A_-_Grasshopper_on_a_Line": true,
@@ -43,7 +43,8 @@
     "Codeforces_1806A_-_Walking_Master": true,
     "Codeforces_1805A_-_We_Need_the_Zero": true,
     "Codeforces_1788A_-_One_and_Two": true,
-    "LeetCode_Move_Zeroes": true
+    "LeetCode_Move_Zeroes": true,
+    "Codeforces_1789A_-_Serval_and_Mochas_Array": true
   },
   "activityHistory": {
     "2026-07-18": 19,
@@ -51,9 +52,10 @@
     "2026-07-20": 5,
     "2026-07-22": 2,
     "2026-07-23": 3,
-    "2026-07-24": 1
+    "2026-07-24": 2
   },
   "todayProblems": [
-    "Move Zeroes"
+    "Move Zeroes",
+    "1789A - Serval and Mochas Array"
   ]
 }
