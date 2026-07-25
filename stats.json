@@ -1,11 +1,11 @@
 {
-  "totalSolved": 36,
+  "totalSolved": 37,
   "currentStreak": 4,
   "maxStreak": 4,
   "lastSyncDate": "2026-07-25",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 3,
+    "easy": 4,
     "medium": 0,
     "hard": 0,
     "basic": 33
@@ -46,7 +46,8 @@
     "LeetCode_Move_Zeroes": true,
     "Codeforces_1789A_-_Serval_and_Mochas_Array": true,
     "Codeforces_1777A_-_Everybody_Likes_Good_Arrays": true,
-    "Codeforces_2237C_-_Duck_Surplus": true
+    "Codeforces_2237C_-_Duck_Surplus": true,
+    "LeetCode_Two_Sum": true
   },
   "activityHistory": {
     "2026-07-18": 19,
@@ -55,10 +56,11 @@
     "2026-07-22": 2,
     "2026-07-23": 3,
     "2026-07-24": 2,
-    "2026-07-25": 2
+    "2026-07-25": 3
   },
   "todayProblems": [
     "1777A - Everybody Likes Good Arrays",
-    "2237C - Duck Surplus"
+    "2237C - Duck Surplus",
+    "Two Sum"
   ]
 }
