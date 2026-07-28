@@ -1,12 +1,12 @@
 {
-  "totalSolved": 39,
-  "currentStreak": 1,
+  "totalSolved": 40,
+  "currentStreak": 2,
   "maxStreak": 4,
-  "lastSyncDate": "2026-07-27",
+  "lastSyncDate": "2026-07-28",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 1,
+    "medium": 2,
     "hard": 0,
     "basic": 33
   },
@@ -49,7 +49,8 @@
     "Codeforces_2237C_-_Duck_Surplus": true,
     "LeetCode_Two_Sum": true,
     "LeetCode_Sort_Colors": true,
-    "LeetCode_Majority_Element": true
+    "LeetCode_Majority_Element": true,
+    "LeetCode_Maximum_Subarray": true
   },
   "activityHistory": {
     "2026-07-18": 19,
@@ -59,9 +60,10 @@
     "2026-07-23": 3,
     "2026-07-24": 2,
     "2026-07-25": 4,
-    "2026-07-27": 1
+    "2026-07-27": 1,
+    "2026-07-28": 1
   },
   "todayProblems": [
-    "Majority Element"
+    "Maximum Subarray"
   ]
 }
