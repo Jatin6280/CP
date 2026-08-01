@@ -9,3 +9,4 @@
 | 7 | [Next Permutation](./LeetCode/Medium/Next%20Permutation) | [LeetCode](https://leetcode.com/problems/next-permutation/) | Medium | 30 Jul 2026 | 01:11 pm |
 | 8 | [Longest Consecutive Sequence](./LeetCode/Medium/Longest%20Consecutive%20Sequence) | [LeetCode](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | 30 Jul 2026 | 02:41 pm |
 | 9 | [Pascal's Triangle](./LeetCode/Easy/Pascal's%20Triangle) | [LeetCode](https://leetcode.com/problems/pascals-triangle/) | Easy | 01 Aug 2026 | 09:25 pm |
+| 10 | [Majority Element II](./LeetCode/Medium/Majority%20Element%20II) | [LeetCode](https://leetcode.com/problems/majority-element-ii/) | Medium | 01 Aug 2026 | 10:30 pm |
