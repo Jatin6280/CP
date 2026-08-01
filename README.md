@@ -8,3 +8,4 @@
 | 6 | [Rearrange Array Elements by Sign](./LeetCode/Medium/Rearrange%20Array%20Elements%20by%20Sign) | [LeetCode](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | Medium | 30 Jul 2026 | 11:35 am |
 | 7 | [Next Permutation](./LeetCode/Medium/Next%20Permutation) | [LeetCode](https://leetcode.com/problems/next-permutation/) | Medium | 30 Jul 2026 | 01:11 pm |
 | 8 | [Longest Consecutive Sequence](./LeetCode/Medium/Longest%20Consecutive%20Sequence) | [LeetCode](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | 30 Jul 2026 | 02:41 pm |
+| 9 | [Pascal's Triangle](./LeetCode/Easy/Pascal's%20Triangle) | [LeetCode](https://leetcode.com/problems/pascals-triangle/) | Easy | 01 Aug 2026 | 09:25 pm |
