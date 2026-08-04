@@ -1,0 +1,41 @@
+#include <bits/stdc++.h>
+using namespace std;
+ 
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    
+    int t;
+    cin >> t;
+    
+    while (t--) {
+        vector<int> p(3);
+        cin >> p[0] >> p[1] >> p[2];
+        
+        int rounds = 0;
+        
+        while (p[0] != p[1] && p[1] != p[2] && p[0] != p[2]) {
+            int mx = max({p[0], p[1], p[2]});
+            int mn = min({p[0], p[1], p[2]});
+            
+            for (int i = 0; i < 3; i++) {
+                if (p[i] == mx) {
+                    p[i]--;
+                    break;
+                }
+            }
+            for (int i = 0; i < 3; i++) {
+                if (p[i] == mn) {
+                    p[i]++;
+                    break;
+                }
+            }
+            rounds++;
+        }
+        
+        cout << rounds << '
+';
+    }
+    
+    return 0;
+}
