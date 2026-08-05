@@ -1,14 +1,14 @@
 {
-  "totalSolved": 49,
+  "totalSolved": 50,
   "currentStreak": 2,
   "maxStreak": 4,
   "lastSyncDate": "2026-08-05",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 8,
     "medium": 7,
     "hard": 0,
-    "basic": 34
+    "basic": 35
   },
   "syncedProblems": {
     "Codeforces_1837A_-_Grasshopper_on_a_Line": true,
@@ -59,7 +59,8 @@
     "LeetCode_Majority_Element_II": true,
     "Codeforces_A_-_Riptide": true,
     "LeetCode_3Sum": true,
-    "LeetCode_Binary_Search": true
+    "LeetCode_Binary_Search": true,
+    "Codeforces_1850D_-_Balanced_Round": true
   },
   "activityHistory": {
     "2026-07-18": 19,
@@ -74,10 +75,11 @@
     "2026-07-30": 3,
     "2026-08-01": 2,
     "2026-08-04": 1,
-    "2026-08-05": 2
+    "2026-08-05": 3
   },
   "todayProblems": [
     "3Sum",
-    "Binary Search"
+    "Binary Search",
+    "1850D - Balanced Round"
   ]
 }
