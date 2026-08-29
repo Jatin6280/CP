@@ -1,12 +1,12 @@
 {
-  "totalSolved": 56,
+  "totalSolved": 57,
   "currentStreak": 1,
   "maxStreak": 4,
-  "lastSyncDate": "2026-08-25",
+  "lastSyncDate": "2026-08-29",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 10,
-    "medium": 9,
+    "medium": 10,
     "hard": 0,
     "basic": 37
   },
@@ -66,7 +66,8 @@
     "LeetCode_Merge_Intervals": true,
     "Codeforces_136A_-_Presents": true,
     "LeetCode_Find_First_and_Last_Position_of_Element_in_Sorted_Array": true,
-    "LeetCode_Smallest_Missing_Multiple_of_K": true
+    "LeetCode_Smallest_Missing_Multiple_of_K": true,
+    "LeetCode_Pow(x,_n)": true
   },
   "activityHistory": {
     "2026-07-18": 19,
@@ -85,9 +86,10 @@
     "2026-08-06": 2,
     "2026-08-07": 1,
     "2026-08-09": 1,
-    "2026-08-25": 1
+    "2026-08-25": 1,
+    "2026-08-29": 1
   },
   "todayProblems": [
-    "Smallest Missing Multiple of K"
+    "Pow(x, n)"
   ]
 }
