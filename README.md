@@ -5,3 +5,4 @@
 | 3 | [Pow(x, n)](./LeetCode/Medium/Pow(x%2C%20n)) | [LeetCode](https://leetcode.com/problems/powx-n/) | Medium | 29 Aug 2026 | 12:41 pm |
 | 4 | [Product of Array Except Self](./LeetCode/Medium/Product%20of%20Array%20Except%20Self) | [LeetCode](https://leetcode.com/problems/product-of-array-except-self/) | Medium | 29 Aug 2026 | 07:46 pm |
 | 5 | [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | 30 Aug 2026 | 12:17 pm |
+| 6 | [Peak Index in a Mountain Array](./LeetCode/Medium/Peak%20Index%20in%20a%20Mountain%20Array) | [LeetCode](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Medium | 31 Aug 2026 | 09:51 am |
