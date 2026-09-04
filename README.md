@@ -7,3 +7,4 @@
 | 5 | [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | 30 Aug 2026 | 12:17 pm |
 | 6 | [Peak Index in a Mountain Array](./LeetCode/Medium/Peak%20Index%20in%20a%20Mountain%20Array) | [LeetCode](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Medium | 31 Aug 2026 | 09:51 am |
 | 7 | [Search Insert Position](./LeetCode/Easy/Search%20Insert%20Position) | [LeetCode](https://leetcode.com/problems/search-insert-position/) | Easy | 31 Aug 2026 | 11:18 am |
+| 8 | [Merge Sorted Array](./LeetCode/Easy/Merge%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/merge-sorted-array/) | Easy | 04 Sept 2026 | 05:32 pm |
