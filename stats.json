@@ -1,12 +1,12 @@
 {
-  "totalSolved": 66,
-  "currentStreak": 4,
-  "maxStreak": 4,
-  "lastSyncDate": "2026-09-07",
+  "totalSolved": 67,
+  "currentStreak": 5,
+  "maxStreak": 5,
+  "lastSyncDate": "2026-09-08",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 14,
-    "medium": 15,
+    "medium": 16,
     "hard": 0,
     "basic": 37
   },
@@ -76,7 +76,8 @@
     "LeetCode_Reverse_String": true,
     "LeetCode_Remove_All_Occurrences_of_a_Substring": true,
     "LeetCode_Reverse_Words_in_a_String": true,
-    "LeetCode_First_Unique_Character_in_a_String": true
+    "LeetCode_First_Unique_Character_in_a_String": true,
+    "LeetCode_Reverse_Integer": true
   },
   "activityHistory": {
     "2026-07-18": 19,
@@ -102,9 +103,10 @@
     "2026-09-04": 1,
     "2026-09-05": 2,
     "2026-09-06": 1,
-    "2026-09-07": 1
+    "2026-09-07": 1,
+    "2026-09-08": 1
   },
   "todayProblems": [
-    "First Unique Character in a String"
+    "Reverse Integer"
   ]
 }

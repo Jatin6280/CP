@@ -12,3 +12,4 @@
 | 10 | [Remove All Occurrences of a Substring](./LeetCode/Medium/Remove%20All%20Occurrences%20of%20a%20Substring) | [LeetCode](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | Medium | 05 Sept 2026 | 11:21 pm |
 | 11 | [Reverse Words in a String](./LeetCode/Medium/Reverse%20Words%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | 06 Sept 2026 | 09:30 pm |
 | 12 | [First Unique Character in a String](./LeetCode/Easy/First%20Unique%20Character%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | 07 Sept 2026 | 10:33 am |
+| 13 | [Reverse Integer](./LeetCode/Medium/Reverse%20Integer) | [LeetCode](https://leetcode.com/problems/reverse-integer/) | Medium | 08 Sept 2026 | 10:54 pm |
