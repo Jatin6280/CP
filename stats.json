@@ -1,12 +1,12 @@
 {
-  "totalSolved": 69,
+  "totalSolved": 70,
   "currentStreak": 1,
   "maxStreak": 5,
   "lastSyncDate": "2026-09-12",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 16,
-    "medium": 16,
+    "medium": 17,
     "hard": 0,
     "basic": 37
   },
@@ -79,7 +79,8 @@
     "LeetCode_First_Unique_Character_in_a_String": true,
     "LeetCode_Reverse_Integer": true,
     "LeetCode_Palindrome_Number": true,
-    "LeetCode_Richest_Customer_Wealth": true
+    "LeetCode_Richest_Customer_Wealth": true,
+    "LeetCode_Search_a_2D_Matrix_II": true
   },
   "activityHistory": {
     "2026-07-18": 19,
@@ -107,9 +108,10 @@
     "2026-09-06": 1,
     "2026-09-07": 1,
     "2026-09-08": 2,
-    "2026-09-12": 1
+    "2026-09-12": 2
   },
   "todayProblems": [
-    "Richest Customer Wealth"
+    "Richest Customer Wealth",
+    "Search a 2D Matrix II"
   ]
 }
