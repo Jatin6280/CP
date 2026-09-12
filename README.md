@@ -14,3 +14,4 @@
 | 12 | [First Unique Character in a String](./LeetCode/Easy/First%20Unique%20Character%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | 07 Sept 2026 | 10:33 am |
 | 13 | [Reverse Integer](./LeetCode/Medium/Reverse%20Integer) | [LeetCode](https://leetcode.com/problems/reverse-integer/) | Medium | 08 Sept 2026 | 10:54 pm |
 | 14 | [Palindrome Number](./LeetCode/Easy/Palindrome%20Number) | [LeetCode](https://leetcode.com/problems/palindrome-number/) | Easy | 08 Sept 2026 | 11:19 pm |
+| 15 | [Richest Customer Wealth](./LeetCode/Easy/Richest%20Customer%20Wealth) | [LeetCode](https://leetcode.com/problems/richest-customer-wealth/) | Easy | 12 Sept 2026 | 09:47 pm |
