@@ -1,12 +1,12 @@
 {
-  "totalSolved": 72,
+  "totalSolved": 73,
   "currentStreak": 2,
   "maxStreak": 5,
   "lastSyncDate": "2026-09-15",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 17,
-    "medium": 18,
+    "medium": 19,
     "hard": 0,
     "basic": 37
   },
@@ -82,7 +82,8 @@
     "LeetCode_Richest_Customer_Wealth": true,
     "LeetCode_Search_a_2D_Matrix_II": true,
     "LeetCode_Spiral_Matrix": true,
-    "LeetCode_Set_Mismatch": true
+    "LeetCode_Set_Mismatch": true,
+    "LeetCode_Find_the_Duplicate_Number": true
   },
   "activityHistory": {
     "2026-07-18": 19,
@@ -112,9 +113,10 @@
     "2026-09-08": 2,
     "2026-09-12": 2,
     "2026-09-14": 1,
-    "2026-09-15": 1
+    "2026-09-15": 2
   },
   "todayProblems": [
-    "Set Mismatch"
+    "Set Mismatch",
+    "Find the Duplicate Number"
   ]
 }

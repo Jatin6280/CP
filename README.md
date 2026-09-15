@@ -18,3 +18,4 @@
 | 16 | [Search a 2D Matrix II](./LeetCode/Medium/Search%20a%202D%20Matrix%20II) | [LeetCode](https://leetcode.com/problems/search-a-2d-matrix-ii/) | Medium | 12 Sept 2026 | 11:09 pm |
 | 17 | [Spiral Matrix](./LeetCode/Medium/Spiral%20Matrix) | [LeetCode](https://leetcode.com/problems/spiral-matrix/) | Medium | 14 Sept 2026 | 09:22 pm |
 | 18 | [Set Mismatch](./LeetCode/Easy/Set%20Mismatch) | [LeetCode](https://leetcode.com/problems/set-mismatch/) | Easy | 15 Sept 2026 | 08:24 pm |
+| 19 | [Find the Duplicate Number](./LeetCode/Medium/Find%20the%20Duplicate%20Number) | [LeetCode](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | 15 Sept 2026 | 08:41 pm |
